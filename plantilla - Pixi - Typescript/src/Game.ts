@@ -10,6 +10,7 @@ export default class Game {
 		document.body.appendChild(this.engine.view);
 
 
+		alert("Soy un bug");
 		this.engine.ticker.add(this.onUpdate.bind(this));
 	}
 
