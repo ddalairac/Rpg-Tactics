@@ -10,3 +10,4 @@ Como usar Pixi con Typescript:
 8. Apretar F1 y ejecutar "devServer: Start"
 
 Ahora cualquier cambio va a ser compilado y a refreshear browser automaticamente.
+d
