@@ -1,0 +1,23 @@
+{
+	"name": "game",
+	"version": "1.0.0",
+	"description": "show of using pixi with typescript",
+	"main": "./js/bundle.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "NC",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/pixi.js": "^4.8.5",
+		"browserify": "^16.2.3",
+		"gulp": "^4.0.0",
+		"gulp-typescript": "^5.0.0",
+		"gulp-util": "^3.0.8",
+		"tsify": "^4.0.1",
+		"typescript": "^3.2.2",
+		"vinyl-source-stream": "^2.0.0",
+		"watchify": "^3.11.0"
+	},
+	"dependencies": {}
+}
